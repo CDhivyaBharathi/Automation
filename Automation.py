@@ -1,7 +1,6 @@
 import cv2
 import time
 import random
-import dropbox
 
 
 startTime = time.time()
