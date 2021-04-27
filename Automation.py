@@ -6,7 +6,7 @@ import random
 startTime = time.time()
 
 def take_snapshot():
-       number = random.randint(0,100)
+    number = random.randint(0,100)
     captureObject = cv2.VideoCapture(0)
     result = True
     while (result):
